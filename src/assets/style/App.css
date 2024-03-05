@@ -1,0 +1,54 @@
+body {
+  background-color: #333;
+}
+#root {
+  max-width: 1280px;
+  width: 500px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-image: url(../static/gradient2.jpg);
+  color: whitesmoke;
+  border-radius: 15px;
+}
+
+.app-title {
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+.app-bienvenida {
+  font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  color: #e2af7a ;
+}
+.app-text {
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.app-gif {
+  height: 120px;
+}
+.card {
+  padding: 2em;
+}
+input {
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  padding: 4px;
+  font-style: normal;
+  border-radius: 3px;
+  border: none;
+  margin: 3px;
+}
+#textito {
+  height: 36px;
+}
+.read-the-docs {
+  color: #888;
+}
